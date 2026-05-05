@@ -23,7 +23,7 @@ Building real-world Azure + AI solutions for production monitoring and incident 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##🤖 AI in Cloud Operations
+## 🤖 AI in Cloud Operations
 I use AI to improve operational efficiency:
 
 - Automated log analysis
