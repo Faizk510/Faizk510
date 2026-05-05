@@ -42,10 +42,10 @@ Key Capabilities:
 - Ingests logs from Azure Log Analytics
 - Identifies errors and recurring patterns
 - Generates structured output:  
-      - Incident Summary
-      - Error Patterns
-      - Root Cause
-      - Recommended Fixes
+      - Incident Summary  
+      - Error Patterns  
+      - Root Cause  
+      - Recommended Fixes  
 
 Tech Stack:
 
