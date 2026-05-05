@@ -6,10 +6,10 @@ Cloud Support Engineer | Azure | Cloud Systems & Production Operations
 
 🚀 About Me
 
-• 10 years in Technical Support, Incident Management, and Cloud Operations
-• Experienced in managing production SaaS platforms end-to-end
-• Strong focus on troubleshooting, system reliability, and root cause analysis
-• Evolving into Cloud Systems Engineering with a focus on automation, scalability, and observability
+•  10 years in Technical Support, Incident Management, and Cloud Operations
+•  Experienced in managing production SaaS platforms end-to-end
+•  Strong focus on troubleshooting, system reliability, and root cause analysis
+•  Evolving into Cloud Systems Engineering with a focus on automation, scalability, and observability
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
