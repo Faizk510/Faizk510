@@ -6,7 +6,7 @@ Cloud Support Engineer | Azure | Cloud Systems & Production Operations
 
 🚀 About Me
 
-• 8+ years in Technical Support, Incident Management, and Cloud Operations
+• 10 years in Technical Support, Incident Management, and Cloud Operations
 • Experienced in managing production SaaS platforms end-to-end
 • Strong focus on troubleshooting, system reliability, and root cause analysis
 • Evolving into Cloud Systems Engineering with a focus on automation, scalability, and observability
@@ -15,15 +15,15 @@ Cloud Support Engineer | Azure | Cloud Systems & Production Operations
 
 🔧 What I Work On
 
-• Azure Cloud Operations (Functions, VMs, Networking, Monitoring)
-• Production Support (L2/L3, Incident Response, RCA)
-• System Reliability & Performance Optimization
-• Log Analysis & Observability (KQL, App Insights)
+• Azure Cloud Operations - Functions, VMs, Networking, Monitoring
+• Production Support - L2/L3, Incident Response, RCA
+• System Reliability – Performance tuning and stability improvements
+• Observability – Log Analytics (KQL), Application Insights
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤖 AI in Cloud Operations
-I use AI as a practical tool to improve operational efficiency, including:
+I use AI to improve operational efficiency:
 
 • Automated log analysis
 • Faster incident triage
@@ -34,13 +34,13 @@ I use AI as a practical tool to improve operational efficiency, including:
 📂 Featured Project
 🔹 AI Log Analyzer (Azure + Ollama)
 
-End-to-end cloud solution that analyzes production logs and generates actionable insights.
+Built an automated pipeline that analyzes production logs and generates structured insights for faster troubleshooting.
 
 Key Capabilities:
 
-• Automated log ingestion from Azure Log Analytics
-• AI-driven analysis of errors and patterns
-• Structured output:
+• Ingests logs from Azure Log Analytics
+• Identifies errors and recurring patterns
+• Generates structured output:
       • Incident Summary
       • Error Patterns
       • Root Cause
