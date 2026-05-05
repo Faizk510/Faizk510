@@ -1,7 +1,7 @@
 Hi, I'm Faiz 👋
 
 Cloud Support Engineer | Azure | Cloud Systems & Production Operations  
-Building real-world Azure + AI solutions for production monitoring and incident response
+Building production-grade Azure + AI solutions for monitoring, incident response, and reliability
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ I use AI to improve operational efficiency:
 📂 Featured Project
 🔹 AI Log Analyzer (Azure + Ollama)
 
-Built an automated cloud pipeline that analyzes production logs and generates structured insights to accelerate incident troubleshooting and root cause analysis.
+Built an automated cloud pipeline that analyzes production logs and generates structured insights to accelerate troubleshooting and root cause analysis.
 
 Key Capabilities:
 
@@ -54,7 +54,7 @@ Tech Stack:
 - Virtual Machine (Ollama - Local LLM)
 - Python (API integration & automation)
 
-👉 Project link: (to be added)
+🔗 Project repository coming next  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
