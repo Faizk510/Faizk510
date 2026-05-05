@@ -1,6 +1,7 @@
-Hi, I am Faiz 
+Hi, I'm Faiz 👋
 
 Cloud Support Engineer | Azure | Cloud Systems & Production Operations
+Building real-world Azure + AI solutions for production monitoring and incident response
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,7 +23,7 @@ Cloud Support Engineer | Azure | Cloud Systems & Production Operations
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🤖 AI in Cloud Operations
+## 🤖 AI in Cloud Operations
 I use AI to improve operational efficiency:
 
 - Automated log analysis
@@ -34,7 +35,7 @@ I use AI to improve operational efficiency:
 📂 Featured Project
 🔹 AI Log Analyzer (Azure + Ollama)
 
-Built an automated pipeline that analyzes production logs and generates structured insights for faster troubleshooting.
+Built an automated cloud pipeline that analyzes production logs and generates structured insights to accelerate incident troubleshooting and root cause analysis.
 
 Key Capabilities:
 
